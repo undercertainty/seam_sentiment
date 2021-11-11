@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# OU files
+SEaM Open Comments for TM351-2016J Faculty of Science Technology Engineering and Mathematics .xlsx
+SEaM Open Comments for TM351-2017J Faculty of Science Technology Engineering and Mathematics .xlsx
+SEaM Open Comments for TM351-2018J Faculty of Science Technology Engineering and Mathematics .xlsx
+*SEaM*xlsx
