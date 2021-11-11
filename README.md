@@ -1,2 +1,2 @@
 # seam_sentiment
-Attempt at using the a sentiment analyser on seam documents
+Attempt at using a sentiment analyser on seam documents to visualise the sentiment of the responses
